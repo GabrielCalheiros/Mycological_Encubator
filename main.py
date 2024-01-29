@@ -1,4 +1,5 @@
 # Importação das bibliotecas
+import json
 import RPi.GPIO as GPIO
 import Adafruit_DHT
 import time
